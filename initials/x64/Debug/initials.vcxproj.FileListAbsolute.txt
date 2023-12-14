@@ -1,0 +1,2 @@
+C:\Users\SHWETA\VisualStudio\csharp\initials\x64\Debug\initials.exe
+C:\Users\SHWETA\VisualStudio\cpp\initials\x64\Debug\initials.exe

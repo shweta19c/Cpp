@@ -1,0 +1,3 @@
+﻿  headsTails.cpp
+C:\Users\SHWETA\VisualStudio\cpp\headsTails\headsTails.cpp(10,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  headsTails.vcxproj -> C:\Users\SHWETA\VisualStudio\cpp\headsTails\x64\Debug\headsTails.exe

@@ -1,0 +1,15 @@
+C:\Users\SHWETA\VisualStudio\cpp\demoTest\bin\Debug\net6.0\demoTest.exe
+C:\Users\SHWETA\VisualStudio\cpp\demoTest\bin\Debug\net6.0\demoTest.deps.json
+C:\Users\SHWETA\VisualStudio\cpp\demoTest\bin\Debug\net6.0\demoTest.runtimeconfig.json
+C:\Users\SHWETA\VisualStudio\cpp\demoTest\bin\Debug\net6.0\demoTest.dll
+C:\Users\SHWETA\VisualStudio\cpp\demoTest\bin\Debug\net6.0\demoTest.pdb
+C:\Users\SHWETA\VisualStudio\cpp\demoTest\obj\Debug\net6.0\demoTest.csproj.AssemblyReference.cache
+C:\Users\SHWETA\VisualStudio\cpp\demoTest\obj\Debug\net6.0\demoTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SHWETA\VisualStudio\cpp\demoTest\obj\Debug\net6.0\demoTest.AssemblyInfoInputs.cache
+C:\Users\SHWETA\VisualStudio\cpp\demoTest\obj\Debug\net6.0\demoTest.AssemblyInfo.cs
+C:\Users\SHWETA\VisualStudio\cpp\demoTest\obj\Debug\net6.0\demoTest.csproj.CoreCompileInputs.cache
+C:\Users\SHWETA\VisualStudio\cpp\demoTest\obj\Debug\net6.0\demoTest.dll
+C:\Users\SHWETA\VisualStudio\cpp\demoTest\obj\Debug\net6.0\refint\demoTest.dll
+C:\Users\SHWETA\VisualStudio\cpp\demoTest\obj\Debug\net6.0\demoTest.pdb
+C:\Users\SHWETA\VisualStudio\cpp\demoTest\obj\Debug\net6.0\demoTest.genruntimeconfig.cache
+C:\Users\SHWETA\VisualStudio\cpp\demoTest\obj\Debug\net6.0\ref\demoTest.dll

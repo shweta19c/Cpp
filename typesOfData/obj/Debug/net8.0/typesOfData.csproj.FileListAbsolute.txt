@@ -1,0 +1,14 @@
+C:\Users\SHWETA\VisualStudio\cpp\typesOfData\bin\Debug\net8.0\typesOfData.exe
+C:\Users\SHWETA\VisualStudio\cpp\typesOfData\bin\Debug\net8.0\typesOfData.deps.json
+C:\Users\SHWETA\VisualStudio\cpp\typesOfData\bin\Debug\net8.0\typesOfData.runtimeconfig.json
+C:\Users\SHWETA\VisualStudio\cpp\typesOfData\bin\Debug\net8.0\typesOfData.dll
+C:\Users\SHWETA\VisualStudio\cpp\typesOfData\bin\Debug\net8.0\typesOfData.pdb
+C:\Users\SHWETA\VisualStudio\cpp\typesOfData\obj\Debug\net8.0\typesOfData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SHWETA\VisualStudio\cpp\typesOfData\obj\Debug\net8.0\typesOfData.AssemblyInfoInputs.cache
+C:\Users\SHWETA\VisualStudio\cpp\typesOfData\obj\Debug\net8.0\typesOfData.AssemblyInfo.cs
+C:\Users\SHWETA\VisualStudio\cpp\typesOfData\obj\Debug\net8.0\typesOfData.csproj.CoreCompileInputs.cache
+C:\Users\SHWETA\VisualStudio\cpp\typesOfData\obj\Debug\net8.0\typesOfData.dll
+C:\Users\SHWETA\VisualStudio\cpp\typesOfData\obj\Debug\net8.0\refint\typesOfData.dll
+C:\Users\SHWETA\VisualStudio\cpp\typesOfData\obj\Debug\net8.0\typesOfData.pdb
+C:\Users\SHWETA\VisualStudio\cpp\typesOfData\obj\Debug\net8.0\typesOfData.genruntimeconfig.cache
+C:\Users\SHWETA\VisualStudio\cpp\typesOfData\obj\Debug\net8.0\ref\typesOfData.dll

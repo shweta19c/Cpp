@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "quadraticFormula", "quadraticFormula.vcxproj", "{BD51F0BD-C2E0-4F5D-977D-DC5A9D12972F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD51F0BD-C2E0-4F5D-977D-DC5A9D12972F}.Debug|x64.ActiveCfg = Debug|x64
+		{BD51F0BD-C2E0-4F5D-977D-DC5A9D12972F}.Debug|x64.Build.0 = Debug|x64
+		{BD51F0BD-C2E0-4F5D-977D-DC5A9D12972F}.Debug|x86.ActiveCfg = Debug|Win32
+		{BD51F0BD-C2E0-4F5D-977D-DC5A9D12972F}.Debug|x86.Build.0 = Debug|Win32
+		{BD51F0BD-C2E0-4F5D-977D-DC5A9D12972F}.Release|x64.ActiveCfg = Release|x64
+		{BD51F0BD-C2E0-4F5D-977D-DC5A9D12972F}.Release|x64.Build.0 = Release|x64
+		{BD51F0BD-C2E0-4F5D-977D-DC5A9D12972F}.Release|x86.ActiveCfg = Release|Win32
+		{BD51F0BD-C2E0-4F5D-977D-DC5A9D12972F}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {928AF9F4-A19F-4722-AF24-791EAB29091D}
+	EndGlobalSection
+EndGlobal
